@@ -1,0 +1,1 @@
+# MercadoLibre-Embudo-de-Conversi-n-y-Retenci-n-por-Cohorte-SQL-
